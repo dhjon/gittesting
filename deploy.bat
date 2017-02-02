@@ -1,0 +1,1 @@
+powershell .\deployDllToGac.ps1
